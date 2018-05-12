@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40139'
     url: http://www.gutenberg.org/2009/agents/40139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39663#Home-Occupations-for-Boys-and-Girls
 gutenberg_issued: '2012-05-10'
 gutenberg_type: Text
 identifiers:
